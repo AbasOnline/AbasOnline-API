@@ -16,7 +16,7 @@
 <p align="center">
     <img
       alt="Abas Online"
-      src="https://abas-app-upload.s3.amazonaws.com/upload/table/628d96cf906b330014a1c644/628d976f0875ff00139a674b/628d97650875ff00139a6733/file-undefined-1653446563918.png?raw=true"
+      src="https://abas-app-upload.s3.amazonaws.com/upload/table/628d96cf906b330014a1c644/628d976f0875ff00139a674b/628d97650875ff00139a6733/file-undefined-1653481192729.png?raw=true"
       width="350px"
   />
 </p>
